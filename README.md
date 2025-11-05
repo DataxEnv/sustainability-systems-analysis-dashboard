@@ -14,7 +14,7 @@ Subsequent folders (**Day 2–6**) will cover:
 - Data transformation  
 - Data modeling  
 - Advanced visualizations  
-- Storytelling and dashboards  
+- Storytelling and dashboards.  
 
 ---
 
