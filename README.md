@@ -20,7 +20,6 @@ Subsequent folders (**Day 2–6**) will cover:
 
 ## Project Goals  
 - Strengthen my Power BI skills in **data modeling, visualization, and basic transformation**  
-  *(Note: I prefer handling most transformations and cleaning with Pandas or SQL before bringing data into Power BI.)*  
 - Apply analytics to **real-world sustainability datasets**  
 
 ---
