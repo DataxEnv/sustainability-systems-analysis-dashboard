@@ -1,15 +1,8 @@
 # Environmental Sustainability Dashboard  
-##  Repository Structure  
-- **Day 1 – Urban Farming**  
-  - `datasets/` → CSV/Excel datasets used  
-  - `.pbix_file/` → Power BI report files  
-  - `.png/` → Screenshots of dashboards and insight notes  
-
-Subsequent folders (**Day 2–6**) will cover:  
-- Data transformation  
-- Data modeling  
-- Advanced visualizations  
-- Storytelling and dashboards.  
+##  Repository Structure   
+- `datasets/` → CSV/Excel datasets used  
+- `.pbix_file/` → Power BI report files  
+- `.png/` → Screenshots of dashboards and insight notes  
 
 
 ## Project Goals  
